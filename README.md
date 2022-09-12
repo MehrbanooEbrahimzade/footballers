@@ -1,4 +1,4 @@
-# PlayerOfFootball
+# footballers
 The Task
 
 Given API endpoint:
